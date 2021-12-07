@@ -1,0 +1,15 @@
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.deps.json
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.dll
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/ref/TriangleTracker.dll
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.pdb
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.csproj.AssemblyReference.cache
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.AssemblyInfoInputs.cache
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.AssemblyInfo.cs
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.csproj.CoreCompileInputs.cache
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.dll
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/ref/TriangleTracker.dll
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.pdb
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.runtimeconfig.json
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/bin/Debug/net5.0/TriangleTracker.runtimeconfig.dev.json
+/Users/kimbrannian/Desktop/TriangleTracker.Solution/TriangleTracker/obj/Debug/net5.0/TriangleTracker.genruntimeconfig.cache
