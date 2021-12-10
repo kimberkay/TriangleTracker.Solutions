@@ -23,11 +23,6 @@ public class Program
     
     TriangleTracker triangle = new TriangleTracker(sideOne,sideTwo,sideThree);
 
-    Console.WriteLine(triangle.CheckType());
-
-  
+    Console.WriteLine(triangle.CheckType()); 
   }
-}
-
-
-
+}  
